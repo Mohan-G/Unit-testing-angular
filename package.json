@@ -1,0 +1,26 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Unit testing using Karma-mocha-chai-sinon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohan-G/Unit-testing-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohan-G/Unit-testing-angular/issues"
+  },
+  "homepage": "https://github.com/Mohan-G/Unit-testing-angular#readme",
+  "devDependencies": {
+    "karma": "^1.7.0",
+    "karma-chai": "^0.1.0",
+    "karma-mocha": "^1.3.0",
+    "karma-sinon": "^1.0.5",
+    "mocha": "^3.4.2"
+  }
+}
